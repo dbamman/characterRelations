@@ -51,7 +51,7 @@ This repository contains 2,170 annotations of character relations in 109 literar
 # Texts
 
 Author|Title
-|--|--|
+|-|-|
 Alexandre Dumas|The Count of Monte Cristo
 Alexandre Dumas|The Three Musketeers
 Aristophanes|Lysistrata
