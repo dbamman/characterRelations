@@ -112,7 +112,6 @@ This repository contains 2,170 annotations of character relations in 109 literar
 |Nathaniel Hawthorne|The Scarlet Letter|
 |Oscar Wilde|An Ideal Husband|
 |Oscar Wilde|The Picture of Dorian Gray|
-|Part 1|Henry IV|
 |Plato|The Republic|
 |Robert Louis Stevenson|Dr. Jekyll and Mr. Hyde|
 |Robert Louis Stevenson|Kidnapped|
@@ -134,6 +133,7 @@ This repository contains 2,170 annotations of character relations in 109 literar
 |William Shakespeare|Antony and Cleopatra|
 |William Shakespeare|As You Like It|
 |William Shakespeare|Hamlet|
+|William Shakespeare|Henry IV Part 1|
 |William Shakespeare|Henry IV Part 2|
 |William Shakespeare|Henry V|
 |William Shakespeare|Henry VI Part 1|
