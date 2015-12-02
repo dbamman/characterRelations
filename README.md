@@ -2,7 +2,7 @@
 
 This repository contains 2,170 annotations of character relations in 109 literary texts, as documented in `characterRelations.pdf`.  Each annotation describes a character dyad along four dimensions of interest: **coarse-grained category** (social, familial, professional), **fine-grained category** (e.g., friend, lover, parent, rival, employer), and **affinity** (positive, negative, neutral).  Additionally, we do not assume that this relationship is static; we also collect judgments as to whether it **changes** at any point in the course of the text.
 
-`character_relation_annotations.txt` contains the full set of 2,170 annotations from Amazon Mechanical Turk (generally 20 annotations per text), without any adjudication of disagreements or filtering. Each annotation is paired with an (anomyized) identifier of the annotator who provided it.
+`character_relation_annotations.txt` contains the full set of 2,170 annotations from Amazon Mechanical Turk (generally 20 annotations per text), without any adjudication of disagreements or filtering. Each annotation is paired with an (anonymized) identifier of the annotator who provided it.
 
 This work is described in the following paper:
 
